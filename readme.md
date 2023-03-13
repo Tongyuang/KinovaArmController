@@ -4,7 +4,6 @@ A very simple kinova arm controlling project
 
 created by [@Tongyuang](https://github.com/Tongyuang), inspired by the [kinova-ros](https://github.com/Kinovarobotics/kinova-ros) repo for the engine, credit to [@Queenie Qiu](https://github.com/QueenieOhYeah) and Prof. [@John Raiti](https://people.ece.uw.edu/raiti_john/) for their help from TECHIN 514 course at Global Innovation Exchange(GIX), UW. [More about GIX](https://gix.uw.edu/)
 
----
 
 ## 1. Description
 
