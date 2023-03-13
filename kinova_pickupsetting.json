@@ -1,0 +1,45 @@
+{
+    "pick_cube_para":{
+        "height":{
+            "over" : 0.120,
+            "pick" : 0.055
+        },
+        "angle":{
+            "ori_x": 0.7119706821454233,
+            "ori_y": 0.7020579469382366,
+            "ori_z": 0.010645562432992799,
+            "ori_w": 0.009952834105663458
+        },
+        "gripper":{
+            "closed": 0.45,
+            "opened": 0
+        }
+    },
+    "environment":{
+        "cubes":{
+            "size":0.05,
+            "cube1":{
+                "_comment":"postion=(x=7,y=8)",
+                "x":0.455,
+                "y":-0.076
+            },
+            "cube2":{
+                "_comment":"postion=(x=5,y=6)",
+                "x":0.351,
+                "y":-0.177
+            },
+            "cube3":{
+                "_comment":"postion=(x=3,y=7)",
+                "x":0.257,
+                "y":-0.125
+            }
+        },
+        "goal":{
+            "goal1":{
+                "_comment":"postion=(x=5,y=12)",
+                "x":0.346,
+                "y":0.124
+            }
+        }
+    }
+}
